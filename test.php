@@ -1,5 +1,5 @@
 <?php
 
-	echo 'HEY GUYSOOO';
+	echo 'WTF IS GOING ON?';
 
 ?>
