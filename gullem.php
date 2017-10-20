@@ -1,4 +1,4 @@
 
 <?php 
-	echo "Gwapo ko Pero atik raaaaa!!!!!asdsa";
+	echo "Gwapo ko Pero atik ra!";
  ?>
