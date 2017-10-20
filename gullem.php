@@ -1,4 +1,4 @@
 
 <?php 
-	echo "Gwapo ko Pero atik raaaaa!!!!!asdsa";
+	echo "WTF is going on?";
  ?>
