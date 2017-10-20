@@ -1,3 +1,3 @@
 <?php 
-	echo "Gwapo ko";
+	echo "Gwapo ko Pero atik ra!";
  ?>
